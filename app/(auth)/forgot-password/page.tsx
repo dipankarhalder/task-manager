@@ -1,4 +1,5 @@
 import Link from "next/link";
+
 import { auth_router } from "@/router";
 import { ForgotPasswordComponent } from "@/components/pages/forgotpassword";
 

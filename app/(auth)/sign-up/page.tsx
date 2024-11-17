@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { Network } from 'lucide-react';
 
 import { auth_router } from "@/router";
 import { SignupComponent } from "@/components/pages/signup";
